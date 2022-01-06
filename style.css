@@ -1,0 +1,87 @@
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 20px 20px;
+  align-items: center;
+}
+
+.half1 {
+  width: 100%;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+.half2 img {
+  height: 350px;
+  width: 300px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+section {
+  display: flex;
+}
+.fontcolor {
+  color: orange;
+}
+.fontspace {
+  padding-left: 5px;
+}
+.border {
+  border-left-color: red;
+  border-left-style: solid;
+  font-display: space;
+}
+.button {
+  background-color: rgb(194, 54, 54);
+  border-radius: 4px;
+  color: white;
+  background-size: auto;
+}
+.middle-text {
+  text-align: center;
+}
+.second {
+  width: 25%;
+  float: left;
+  margin-left: 5%;
+  padding-left: 2%;
+}
+#box {
+  background-color: rgb(226, 221, 221);
+  border-radius: 20px;
+  padding-bottom: 2%;
+  padding-top: 3%;
+}
+
+#box1 {
+  background-color: rgb(235, 218, 220);
+  border-radius: 20px;
+  padding-bottom: 1%;
+  padding-top: 3%;
+}
+#box2 {
+  background-color: rgb(236, 236, 205);
+  border-radius: 20px;
+  padding-bottom: 2%;
+  padding-top: 1%;
+  padding-top: 2%;
+}
+#inline {
+  font-family: "poppins";
+  font-size: 50px;
+  text-align: center;
+}
+.image {
+  height: 200px;
+}
+#half {
+  margin-top: 40px;
+  margin-left: 50px;
+}
+.develop {
+  background-image: url(images/shapes/shape-1.png);
+  background-size: 100px;
+  background-repeat: no-repeat;
+  background-position-y: middle;
+}
+.half3 {
+  position: right;
+}
