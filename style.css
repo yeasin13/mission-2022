@@ -82,6 +82,16 @@ section {
   background-repeat: no-repeat;
   background-position-y: middle;
 }
-.half3 {
-  position: right;
+
+.last {
+  margin-left: 50px;
+  margin-right: 50px;
+  background-image: url(./images/shapes/shape-4.png);
+  background-repeat: no-repeat;
+  background-position-y: left;
+}
+.foot {
+  color: blanchedalmond;
+  text-align: center;
+  background-color: black;
 }
